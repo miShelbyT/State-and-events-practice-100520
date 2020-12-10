@@ -20,7 +20,7 @@ const apiResponse = [
     {
         "id": 4,
         "name": "Droolius Caesar",
-        "img": "https://minepuppy.com/wp-content/uploads/2018/02/Doberman-breed-brown-minepuppy.jpg",
+        "img": "https://www.dogtime.com/assets/uploads/2011/03/puppy-development-1280x720.jpg",
         "breed": "Doberman"
     }
 ]
